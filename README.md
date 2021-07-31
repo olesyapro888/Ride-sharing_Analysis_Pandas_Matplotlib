@@ -25,7 +25,7 @@ The analysis was created using next resources:
   - Software: Python 3.8.8, Anaconda 4.10.3., Jupyter-notebook : 6.3.0.	
 ## `PyBer ride-sharing Analysis Result`	
 	
-Full results can be found in the [City Schools Analysis](./PyCitySchools_Challenge.ipynb) file.	
+Full results can be found in the [PyBer ride-sharings Analysis](./PyBer_Challenge.ipynb) file.	
   ### ` - A ride-sharing summary DataFrame by city type`	
 	
 The screen below shows t
@@ -44,7 +44,7 @@ T:
 
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types
 
-three business recommendations to the CEO for addressing any disparities among the city types:
-  - T.
-  - Ty.
-  - .
+Three business recommendations to the CEO for addressing any disparities among the city types:
+  1. ,
+  2. ,
+  3. .
