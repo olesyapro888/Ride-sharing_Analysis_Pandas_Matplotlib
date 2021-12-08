@@ -1,5 +1,5 @@
 # PyBer ride-sharing analysis
-## `-Indice-`	
+## `-Contents-`	
 	
 - [Overview of the Project](#overview-of-the-PyBer-ride-sharing-analysis)	
 - [Resources](#resources)	
@@ -10,7 +10,7 @@
 	
 ## `Overview of the PyBer ride-sharing analysis`	
 	
-The purpose for the PyBer ride-sharing analysis were: 	
+The purpose for the PyBer ride-sharing analysis are: 	
 1. Create and analyse a summary of the ride-sharing key metrics by city type.
 2. Create and observe a multiple-line graph that shows the total weekly fares for each city type. 	
 3. Summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.	
